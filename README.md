@@ -93,7 +93,7 @@ Installation
 
 Clone the repository and install its dependencies:
 
-git clone https://github.com/shubhamcooks/YOUR-REPOSITORY-NAME.git
+git clone https://github.com/shubhamcooks/shubhamcooks.git
 cd YOUR-REPOSITORY-NAME
 npm install
 
@@ -137,7 +137,7 @@ Live URL
 
 After successful deployment, the website will be available at:
 
-https://shubhamcooks.github.io/YOUR-REPOSITORY-NAME/
+https://shubhamcooks.github.io/shubhamcooks/
 
 «Replace "YOUR-REPOSITORY-NAME" with the actual repository name.»
 
