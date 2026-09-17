@@ -38,16 +38,14 @@ export function Contact() {
           <ContactCard
             icon={<Linkedin size={18} />}
             label="LinkedIn"
-            value="[Add real link]"
-            href="#"
-            placeholder
+            value="Shubham Dey"
+            href="https://linkedin.com/in/shubham-dey-99bb0041a"
           />
           <ContactCard
             icon={<Mail size={18} />}
             label="Email"
-            value="[Add real email]"
-            href="#"
-            placeholder
+            value="Shubham Dey"
+            href="mailto:xlegendx999@gmail.com"
           />
         </motion.div>
       </div>
